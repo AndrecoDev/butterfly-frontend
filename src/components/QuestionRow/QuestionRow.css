@@ -1,0 +1,8 @@
+.questionRow_comment {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.questionRow_comment:hover {
+    color: blue;
+}   
